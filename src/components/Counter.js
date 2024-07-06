@@ -8,7 +8,7 @@ export default function Counter() {
 
   return (
     <div>
-        Hello My .com World
+        Hello World
        
     </div>
   )
